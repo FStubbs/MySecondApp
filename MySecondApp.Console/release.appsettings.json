@@ -1,0 +1,4 @@
+{
+    "GreetingFormat": "Greetings {0}! - {1}",
+    "Greeter": "Prod App"
+}

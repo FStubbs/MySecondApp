@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
@@ -15,5 +16,6 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MySecondApp.Library\MySecondApp.Library.csproj" />
+    <Content Include="Repositories\WordRepositoryTests.cs" />
   </ItemGroup>
 </Project>
