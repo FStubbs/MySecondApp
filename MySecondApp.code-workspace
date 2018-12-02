@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "MySecondApp.Console"
+		},
+		{
+			"path": "MySecondApp.Library"
+		},
+		{
+			"path": "MySecondApp.Library.Tests"
+		}
+	],
+	"settings": {}
+}
